@@ -1,5 +1,8 @@
 # Building Scalable, Secure, and High-Performance Web Applications with AWS 3-Tier Architecture
 
+## Project Into
+This project involves setting up a robust 3-tier architecture on AWS, ensuring security, scalability, and high performance. The architecture includes a presentation layer with an Application Load Balancer (ALB), a web/application layer with EC2 instances, and a database layer using Amazon RDS in a private subnet. Components such as subnets across multiple Availability Zones, internet gateways, NAT gateways, and carefully configured security groups ensure optimized access and protection at each layer. This guide walks through a practical implementation of the architecture with automated resource management and cost-effective multi-AZ setup.
+
 ## Architecture Overview
 
 ![alt text](image-1.png)
